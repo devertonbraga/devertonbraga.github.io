@@ -25,18 +25,19 @@
     body {
       background-color: rgb(213, 200, 170);
     }
-    .meunome {
-
+    .meuNome {
+    text-align: center;
     }
     .foto {
-       
+   
     }
     .paragrafo { 
     font-size: 17px;
     color: darkblue;
+ 
     }
     .local2 {
     color: black;
-
+    
     }
   </style>
